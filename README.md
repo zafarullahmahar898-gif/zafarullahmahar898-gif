@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm zafarullah mahar</h1>
+<h1 align="center">Hi 👋, I'm zafarullah</h1>
 <h3 align="center">A passionate software engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarullahmahar898-gif&label=Profile%20views&color=0e75b6&style=flat" alt="zafarullahmahar898-gif" /> </p>
